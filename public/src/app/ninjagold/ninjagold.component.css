@@ -21,6 +21,8 @@
     border: 1px solid black;
     margin: 10px 0px;
     padding-bottom: 25px;
+    overflow: scroll;
+    height: 200px;
 }
 
 .actions div{
